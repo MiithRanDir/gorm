@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"sort"
 
-	"gorm.io/gorm"
+	"github.com/miithrandir/gorm"
 	"gorm.io/gorm/clause"
 )
 

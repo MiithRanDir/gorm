@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"gorm.io/gorm"
+	"github.com/miithrandir/gorm"
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/schema"
 )

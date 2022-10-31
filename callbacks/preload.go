@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"gorm.io/gorm"
+	"github.com/miithrandir/gorm"
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/schema"
 	"gorm.io/gorm/utils"
